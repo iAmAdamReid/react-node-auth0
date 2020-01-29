@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React-Auth0",
+  "name": "Boilerplate application with auth0",
   "icons": [
     {
       "src": "favicon.ico",
